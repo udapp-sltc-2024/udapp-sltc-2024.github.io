@@ -1,12 +1,10 @@
-title: 1st Workshop on Applications of Universal Dependencies
+title: Applications of Universal Dependencies
 
 description: > 
-   Website for the 1st Workshop on Applications of Universal Dependencies, co-located with the 2024 Swedish Language Technology Conference (SLTC) at Linköping University, Sweden
+  Applications of Universal Dependencies, co-located with SLTC-2024
 
 header_pages:
-  - call.md
   - program.md
-  - organizers.md
 
 remote_theme: jekyll/minima
 
