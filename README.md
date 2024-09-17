@@ -18,7 +18,7 @@ The workshop aims to survey existing downstream applications of UD and bring tog
 
 We will not publish proceedings, but accepted abstracts will be made available on the workshop website. Original work is welcome, but we are also interested in previously published work that can complete the picture of what applications of UD there are. Both talks and demos are welcome.
 
-Submissions of 1-page abstracts with this [form](https://forms.gle/7R4so6odty23MnBaA)
+Submissions of 1-page abstracts with this [form](https://forms.gle/7R4so6odty23MnBaA).
 The deadline is 25 October, and notifications are due 1 November.
 
 ## Organizers
