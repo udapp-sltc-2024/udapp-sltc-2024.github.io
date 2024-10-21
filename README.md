@@ -1,8 +1,9 @@
-Workshop co-located with [SLTC-2024](https://sltc2024.github.io/)
+Workshop co-located with [SLTC-2024](https://sltc2024.github.io/) (hybrid)
 
 __Workshop date__: 29 November 2024, before noon<br>
 __Abstracts due__ (1 page pdf): 25 October<br>
-__Notification__: 1 November
+__Notification__: 1 November<br>
+__Venue__: Linköping University, Sweden and online
 
 Universal Dependencies (UD) is an annotation framework for natural language syntax analysed as dependency trees. Its main characteristics are cross-linguality (it has been applied to over 150 languages) and robustness (it can analyse any input, however far it is from standard grammaticality). Several algorithms and tools are available for easy deployment of UD parsing, which makes it into a useful step for pipelines of explainable natural language processing; the UD parse tree itself is an inspectable data structure that allows for both data-driven and rule-based further processing.
 
