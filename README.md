@@ -1,7 +1,7 @@
 Workshop co-located with [SLTC-2024](https://sltc2024.github.io/) (hybrid)
 
 __Workshop date__: 29 November 2024, before noon<br>
-__Abstracts due__ (1 page pdf): 25 October<br>
+__Abstracts due__: 25 October<br>
 __Notification__: 1 November<br>
 __Venue__: Linköping University, Sweden and online
 
