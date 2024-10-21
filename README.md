@@ -17,10 +17,13 @@ The workshop aims to survey existing downstream applications of UD and bring tog
 - tools for UD tree processing
 - combinations with other NLP tools
 
-We will not publish proceedings, but accepted abstracts will be made available on the workshop website. Original work is welcome, but we are also interested in previously published work that can complete the picture of what applications of UD there are. Both talks and demos are welcome.
+We will not publish proceedings, but accepted abstracts will be made available on the workshop website. Original work is welcome, including work in progress, but we are also interested in previously published work that can complete the picture of what applications of UD there are. Both talks and demos are welcome.
 
-Submissions of 1-page abstracts in PDF are to be sent to Kirsi Sandberg, kirsi.sandberg@tuni.fi as email attachments, with email title UD-SLTC-2024 ABSTRACT.
+Registration with this [form](https://forms.gle/7R4so6odty23MnBaA).
 The deadline is 25 October, and notifications are due 1 November.
+The registration form asks for a title and a short abstract, in case you want to give a presentation. 
+We will check that your topic is in scope, but try to give room to all presentations that are; 
+it is also possible to participate without a talk.
 
 ## Organizers
 - Arianna Masciolini, University of Gothenburg
