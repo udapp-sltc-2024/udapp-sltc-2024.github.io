@@ -25,7 +25,7 @@ The registration form asks for a title and a short abstract, in case you want to
 We will check that your topic is in scope, but try to give room to all presentations that are; 
 it is also possible to participate without a talk.
 
-For questions about the workshop, please contact Kirsi Sandberg at kirsi.sandberg@tuni.fi.
+For questions about the workshop, please contact Kirsi Sandberg at [kirsi.sandberg@tuni.fi](mailto:kirsi.sandberg@tuni.fi).
 
 ## Organizers
 - Arianna Masciolini, University of Gothenburg
