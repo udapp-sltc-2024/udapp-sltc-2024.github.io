@@ -1,11 +1,11 @@
 
 
 ### _Deptreepy: a library for analysing and processing dependency trees_
-#### Aarne Ranta (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
+#### Aarne Ranta and Jyrki Nummenmaa (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
 Deptreepy is a Python library inspired by functional programming. It converts CoNLLU representations to recursive tree structures, and uses the recent pattern matching construct of Python to recursively analyse the trees. This analysis enables selecting and manipulating wordlines, subtrees, entire trees, and sequences of trees. It is usable from a Unix command line in pipes. In addition to reading CoNLL-U files, it provides a high-level interface to receiving results from UDPipe. It can also visualize CoNLL-U output as svg images. Deptreepy has been used on a large scale in the project POLTE (Political Temporalities) to analyse Finnish parliamentary text, as well as in projects on language teaching and mathematical language. Deptreepy is joint work by Aarne Ranta and Arianna Masciolini.  
 
 ### _Using UD-parsed data to analyse political talk_
-#### Kirsi Sandberg (Tampere university)
+#### Kirsi Sandberg and Jyrki Nummenmaa (Tampere university)
 In this paper we present a case study on using UD-parsed parliamentary data to analyze changes in political rhetoric. The study is part of project that studies the uses of political temporalities in the Finnish Parliament from 1976 until today (POLTE) and the data consists of official parliamentary records of Finnish parliament from 1980 to 2022, preprocessed, parsed, and organised into a database. In our study, we have used the Deptreepy-tool to locate all explicit references to 'tulevaisuus' (future) from the speeches and to itemise the different syntactic positions it is used in. In our presentation, we present some central findings and discuss the possibilities and challenges of using observations about syntactic variation based on universal dependencies as a means to study changes in political talk.
 
 ### _STUnD - a Search Tool for (parallel) Universal Dependencies treebanks_
