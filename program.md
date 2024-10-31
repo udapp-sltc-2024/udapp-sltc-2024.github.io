@@ -1,4 +1,13 @@
+---
+title: Program
+layout: base
+---
 
+> __NOTE:__ This program is a work in progress; more information and times forthcoming. 
+
+### _Ten Years of Universal Dependencies: A Literature Survey_
+#### Joakim Nivre (Uppsala University)
+Universal Dependencies started in 2014 and has seen a rapid growth in terms of languages, treebanks and contributors. But what are the data sets actually used for and how has this usage changed over time? To begin answering this question, I have performed a literature survey where papers referring to Universal Dependencies are categorised with respect to their applications. The results show that, whereas research on parsing was dominant in early years, use cases have become more diversified over time.   Comment: I estimate that I would need at least 10 minutes for this presentation, and that I could use up to 20 minutes if there is time.
 
 ### _Deptreepy: a library for analysing and processing dependency trees_
 #### Aarne Ranta and Jyrki Nummenmaa (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
@@ -23,7 +32,3 @@ While the Universal Dependency project (UD) has not directly addressed translati
 ### _Labeled Property Graphs as a Data Model for UD-annotated Corpora_
 #### Niklas Deworetzki and Peter Ljunglöf (Department of Computer Science and Engineering at University of Gothenburg & Chalmers University of Technology)
 Annotation schemes for tokenised text corpora are constantly evolving, aiming to maximise how much information can be extracted from a corpus. Graph databases have been developed independently from corpus tools to handle similar requirements of changing datasets containing complex relationships. We present how graphs can be used as a framework to model annotations in corpora, enabling storage, efficient querying and adaptable representation of annotated data in graph databases.  We propose the labeled property graph model as used by (Sharma and Sinha, 2019) as a data model for syntactically annotated corpora. Its flexibility allows the storage of various forms of data and supports the addition, removal and manipulation of annotations for existing data-sets, which makes it an established tool in data mining. The model describes graphs in terms of nodes and directed edges, both of which can be annotated with properties.  There are existing corpus systems that make use of labeled graphs to model annotations. But these systems do not utilise the full power of the labeled property graph model, which enables properties on nodes and edges to be complex structures and not just simple strings. This allows for more expressive queries that can specify node labels, relationship types, property values and/or structure of the result set. 
-
-### _Ten Years of Universal Dependencies: A Literature Survey_
-#### Joakim Nivre (Uppsala University)
-Universal Dependencies started in 2014 and has seen a rapid growth in terms of languages, treebanks and contributors. But what are the data sets actually used for and how has this usage changed over time? To begin answering this question, I have performed a literature survey where papers referring to Universal Dependencies are categorised with respect to their applications. The results show that, whereas research on parsing was dominant in early years, use cases have become more diversified over time.   Comment: I estimate that I would need at least 10 minutes for this presentation, and that I could use up to 20 minutes if there is time.
