@@ -1,7 +1,4 @@
----
-title: Program
-layout: base
----
+# Program 
 
 > __NOTE:__ This program is a work in progress; more information and times forthcoming. 
 
