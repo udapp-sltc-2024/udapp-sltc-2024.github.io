@@ -9,7 +9,7 @@ layout: base
 
 ## _Ten Years of Universal Dependencies: A Literature Survey_
 ### Joakim Nivre (Uppsala University)
-Universal Dependencies started in 2014 and has seen a rapid growth in terms of languages, treebanks and contributors. But what are the data sets actually used for and how has this usage changed over time? To begin answering this question, I have performed a literature survey where papers referring to Universal Dependencies are categorised with respect to their applications. The results show that, whereas research on parsing was dominant in early years, use cases have become more diversified over time.   Comment: I estimate that I would need at least 10 minutes for this presentation, and that I could use up to 20 minutes if there is time.
+Universal Dependencies started in 2014 and has seen a rapid growth in terms of languages, treebanks and contributors. But what are the data sets actually used for and how has this usage changed over time? To begin answering this question, I have performed a literature survey where papers referring to Universal Dependencies are categorised with respect to their applications. The results show that, whereas research on parsing was dominant in early years, use cases have become more diversified over time.
 
 ## _Deptreepy: a library for analysing and processing dependency trees_
 ### Aarne Ranta and Jyrki Nummenmaa (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
