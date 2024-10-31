@@ -5,7 +5,7 @@ layout: base
 
 # Program
 
-> __NOTE:__ This program is a work in progress more information and times forthcoming. 
+> __NOTE:__ This program is a work in progress; more information and times forthcoming. 
 
 ## _Ten Years of Universal Dependencies: A Literature Survey_
 ### Joakim Nivre (Uppsala University)
