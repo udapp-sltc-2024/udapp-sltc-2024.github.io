@@ -12,7 +12,7 @@ layout: base
 Universal Dependencies started in 2014 and has seen a rapid growth in terms of languages, treebanks and contributors. But what are the data sets actually used for and how has this usage changed over time? To begin answering this question, I have performed a literature survey where papers referring to Universal Dependencies are categorised with respect to their applications. The results show that, whereas research on parsing was dominant in early years, use cases have become more diversified over time.
 
 ### _Deptreepy: a library for analysing and processing dependency trees_
-#### Aarne Ranta and Jyrki Nummenmaa (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
+#### Aarne Ranta, Jyrki Nummenmaa and Arianna Masciolini (Department of Computer Science and Engineering, Chalmers and University of Gothenburg)
 Deptreepy is a Python library inspired by functional programming. It converts CoNLLU representations to recursive tree structures, and uses the recent pattern matching construct of Python to recursively analyse the trees. This analysis enables selecting and manipulating wordlines, subtrees, entire trees, and sequences of trees. It is usable from a Unix command line in pipes. In addition to reading CoNLL-U files, it provides a high-level interface to receiving results from UDPipe. It can also visualize CoNLL-U output as svg images. Deptreepy has been used on a large scale in the project POLTE (Political Temporalities) to analyse Finnish parliamentary text, as well as in projects on language teaching and mathematical language. Deptreepy is joint work by Aarne Ranta and Arianna Masciolini.  
 
 ### _Using UD-parsed data to analyse political talk_
