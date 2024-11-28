@@ -5,7 +5,7 @@ layout: base
 
 # Program
 
-All sessions will take place in room [Alan Turing](https://use.mazemap.com/#v=1&config=liu&campusid=742&zlevel=3&center=15.575253,58.398099&zoom=18&sharepoitype=poi&sharepoi=1000933399) (floor 3 of hus E in Valla Campus, Linköping University) and on [Zoom](https://link.mazemap.com/iNCSUvXo).
+All sessions will take place in room [Alan Turing](https://use.mazemap.com/#v=1&config=liu&campusid=742&zlevel=3&center=15.575253,58.398099&zoom=18&sharepoitype=poi&sharepoi=1000933399) (floor 3 of hus E in Valla Campus, Linköping University) and on [Zoom](https://link.mazemap.com/iNCSUvXo) (passcode: 854180).
 
 ## Session 1 (09:00 - 10:00)
 
